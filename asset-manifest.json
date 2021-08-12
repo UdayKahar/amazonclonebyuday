@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/UdayKahar/amazonbyuday.git/static/css/main.73062829.chunk.css",
-    "main.js": "/UdayKahar/amazonbyuday.git/static/js/main.73ef3ea2.chunk.js",
-    "main.js.map": "/UdayKahar/amazonbyuday.git/static/js/main.73ef3ea2.chunk.js.map",
-    "runtime-main.js": "/UdayKahar/amazonbyuday.git/static/js/runtime-main.2d3745d7.js",
-    "runtime-main.js.map": "/UdayKahar/amazonbyuday.git/static/js/runtime-main.2d3745d7.js.map",
-    "static/js/2.0b2f402f.chunk.js": "/UdayKahar/amazonbyuday.git/static/js/2.0b2f402f.chunk.js",
-    "static/js/2.0b2f402f.chunk.js.map": "/UdayKahar/amazonbyuday.git/static/js/2.0b2f402f.chunk.js.map",
-    "static/js/3.25165503.chunk.js": "/UdayKahar/amazonbyuday.git/static/js/3.25165503.chunk.js",
-    "static/js/3.25165503.chunk.js.map": "/UdayKahar/amazonbyuday.git/static/js/3.25165503.chunk.js.map",
-    "index.html": "/UdayKahar/amazonbyuday.git/index.html",
-    "static/css/main.73062829.chunk.css.map": "/UdayKahar/amazonbyuday.git/static/css/main.73062829.chunk.css.map",
-    "static/js/2.0b2f402f.chunk.js.LICENSE.txt": "/UdayKahar/amazonbyuday.git/static/js/2.0b2f402f.chunk.js.LICENSE.txt"
+    "main.css": "/UdayKahar/amazonbyuday/static/css/main.73062829.chunk.css",
+    "main.js": "/UdayKahar/amazonbyuday/static/js/main.73ef3ea2.chunk.js",
+    "main.js.map": "/UdayKahar/amazonbyuday/static/js/main.73ef3ea2.chunk.js.map",
+    "runtime-main.js": "/UdayKahar/amazonbyuday/static/js/runtime-main.332e1490.js",
+    "runtime-main.js.map": "/UdayKahar/amazonbyuday/static/js/runtime-main.332e1490.js.map",
+    "static/js/2.0b2f402f.chunk.js": "/UdayKahar/amazonbyuday/static/js/2.0b2f402f.chunk.js",
+    "static/js/2.0b2f402f.chunk.js.map": "/UdayKahar/amazonbyuday/static/js/2.0b2f402f.chunk.js.map",
+    "static/js/3.25165503.chunk.js": "/UdayKahar/amazonbyuday/static/js/3.25165503.chunk.js",
+    "static/js/3.25165503.chunk.js.map": "/UdayKahar/amazonbyuday/static/js/3.25165503.chunk.js.map",
+    "index.html": "/UdayKahar/amazonbyuday/index.html",
+    "static/css/main.73062829.chunk.css.map": "/UdayKahar/amazonbyuday/static/css/main.73062829.chunk.css.map",
+    "static/js/2.0b2f402f.chunk.js.LICENSE.txt": "/UdayKahar/amazonbyuday/static/js/2.0b2f402f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d3745d7.js",
+    "static/js/runtime-main.332e1490.js",
     "static/js/2.0b2f402f.chunk.js",
     "static/css/main.73062829.chunk.css",
     "static/js/main.73ef3ea2.chunk.js"
